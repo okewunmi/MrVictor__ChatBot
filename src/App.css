@@ -1,5 +1,22 @@
-.main {
+main {
   height: 100vh;
+}
+header {
+  height: 4.5rem;
+  background: #560000;
+  color: white;
+  padding: 2rem 1rem 2rem 3rem;
+  font-size: 1rem;
+}
+.bck__image {
+  height: 85%;
+  width: 100%;
+  object-fit: fill;
+}
+.link {
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
 }
 df-messenger {
   --df-messenger-bot-message: #560000;
